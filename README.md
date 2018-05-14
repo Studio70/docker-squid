@@ -25,7 +25,7 @@ Replace the username and password with your desired information.
 
 
 ```bash
-docker run -d -p 3128:3128 --env AUTH_USER="myusername" --env AUTH_PASS="mypassword" 54/squid
+docker run -d -p 3128:3128 --env AUTH_USER="myusername" --env AUTH_PASS="mypassword" assadi/squid
 
 ```
 
